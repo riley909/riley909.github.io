@@ -1,5 +1,7 @@
 ---
 title: "github  블로그 시작"
+categories:
+  - etc
 tags:
   - etc
 ---
