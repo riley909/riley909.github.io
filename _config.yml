@@ -134,7 +134,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Email"
       icon: "fab fa-fw fa-twitter-square"
       url: mailto:increaseblue666@gmail.com
     #- label: "Facebook"
