@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "TIL"
+  - title: "til"
     url: /til/
-  - title: "ETC"
+  - title: "etc"
     url: /etc/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
